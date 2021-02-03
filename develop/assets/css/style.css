@@ -43,9 +43,7 @@ body {
     margin-left: 25px;
 }
 
-
-
-
+/* Text styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -55,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Front Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +63,7 @@ p {
     background-position: center;
 }
 
+/* Floats */
 .float-left {
     float: left;
     margin-right: 25px;
