@@ -81,6 +81,25 @@ p {
     margin-left: 20px;
 }
 
+/*Main Content Section*/
+.maincontent {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.maincontent img {
+    max-height: 200px;
+}
+
+.maincontent h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /*Aside*/
 .benefits {
     margin-right: 20px;
@@ -109,26 +128,6 @@ h3 {
     max-width: 150px;
 }
 
-
-/*Main Content Section*/
-.maincontent {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.maincontent img {
-    max-height: 200px;
-}
-
-.maincontent h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 /*Footer*/
 .footer {
     padding: 30px;
@@ -137,6 +136,6 @@ h3 {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
