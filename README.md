@@ -20,11 +20,11 @@ In this repository, a maketing agency, Horiseon, gives a developer an on-the-job
 ## Usage
 * To ensure webpage meets accessibility standards:
    * Look at the source code and ensure it contains semantic HTML with elements that help developers and browsers understand what it does and how the content is structured. 
-   * Look at the structure of the HTML elements and find that the elements follow a logical structure independent of styling and positioning. This will help the screen reader navigate through the webpage. 
-        * Examples:
-            * Look at the image elements and ensure it contains accessible alt attributes.
-            * Look at the heading attributes and ensure they fall in sequential order.
-            * Look at the title elements and find a concise, descriptive title
+   * Look at the structure of the HTML elements and find that the elements follow a logical structure independent of styling and positioning. This will help the screen reader navigate through the webpage.
+   * Examples:
+        * Look at the image elements and ensure it contains accessible alt attributes.
+        * Look at the heading attributes and ensure they fall in sequential order.
+        * Look at the title elements and find a concise, descriptive title
 ## License
 MIT License
 
