@@ -4,15 +4,15 @@
 In this repository, a maketing agency, Horiseon, gives a developer an on-the-job ticket to improve their codebase. The developer will need to ensure the website follows accessibility standards to increase their search engine optimization. This improvement will help the agency's marketing. 
 
 # Table of Contents
-* [Installation] (#installation)
+* [Installation] (#install)
 * [Usage] (#usage)
 * [License] (#license)
 
-## Installation
+## Installation # install
 1. Create a folder on desktop to download repository to.
 2. Copy the link to repository from GitHub.
 3. Open Bash or Terminal Window.
-4. When the console opens, navigate to the folder create on desktop for repository. *Remember to use the command <i> cd </i> to change directories.*
+4. When the console opens, navigate to the folder create on desktop for repository. *Remember to use the command cd to change directories.*
 5. In the console, type the command <i> git clone </i> and paste the link to repository.
 6. Open repository in preferred coder editor.
 7. Begin.
