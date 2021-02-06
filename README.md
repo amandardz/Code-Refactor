@@ -4,11 +4,11 @@
 In this repository, a maketing agency, Horiseon, gives a developer an on-the-job ticket to improve their codebase. The developer will need to ensure the website follows accessibility standards to increase their search engine optimization. This improvement will help the agency's marketing. 
 
 # Table of Contents
-* [Installation] (#install)
+* [Installation] (#installation)
 * [Usage] (#usage)
 * [License] (#license)
 
-## Installation # install
+### Installation
 1. Create a folder on desktop to download repository to.
 2. Copy the link to repository from GitHub.
 3. Open Bash or Terminal Window.
