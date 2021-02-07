@@ -25,6 +25,9 @@ In this repository, a maketing agency, Horiseon, gives a developer an on-the-job
         * Look at the image elements and ensure it contains accessible alt attributes.
         * Look at the heading attributes and ensure they fall in sequential order.
         * Look at the title elements and find a concise, descriptive title
+<img src="assets\images\websiteimage1.PNG">
+<img src="assets\images\websiteimage2.PNG">
+
 ## License
 MIT License
 
