@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Horiseon</title>
+    <title>Horiseon</title> /* Adding a website title */
 </head>
 
 <body>
-    <header class="header">
+    <header class="header"> /* change div to header tag*/
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <nav>
+        <nav> /* change div to navigation tag and created a list */
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -25,9 +25,10 @@
         </nav>
     </header>
 
-    <div class="hero" role="img" aria-label="An image of a group of individuals having a digitial marketing meeting"></div>
+    /* Adding ARIA to make image accessible */
+    <div class="hero" role="img" aria-label="An image of a group of individuals having a digital marketing meeting"></div>
 
-    <main class="content">
+    <main class="content"> /* change the container div to main, change the div inside the container div into sections, added alt to image tags, added id to search-engine-optimization to make link function, consolidated amount of classes */
         <section id="search-engine-optimization" class="maincontent">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="An image of a journal with search engine optimization diagram on a top of a work desk">
             <h2>Search Engine Optimization</h2>
@@ -50,7 +51,7 @@
             </p>
         </section>
     </main>
-    <aside class="benefits">
+    <aside class="benefits"> /* change the div to aside, change the div inside aside into sections, added alt to image tags, removed closing tag on img tag since it is self-closing, consolidated amount of classes */
         <section class="benefitscontent">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="An image of a black icon with gear wheel on top of a filter pointing to a coin with a money sign inside">
@@ -73,7 +74,7 @@
             </p>
         </section>
     </aside>
-    <footer class="footer">
+    <footer class="footer"> /* change div to footer tag, change heading attribute to ensure follows a sequential order */
         <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
