@@ -28,6 +28,9 @@ In this repository, a maketing agency, Horiseon, gives a developer an on-the-job
 * Images of website (Note that images cut in half due to sizing of window)
         <img src="assets\images\websiteimage1.PNG" alt="image of what top half of website looks like">
         <img src="assets\images\websiteimage2.PNG" alt="image of what bottom half of website looks like">
+* Link to website
+     [Click here to see website](https://amandardz.github.io/Code-Refactor/)
+
 
 ## License
 MIT License
